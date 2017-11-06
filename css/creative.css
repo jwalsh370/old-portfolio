@@ -41,7 +41,7 @@ p {
   margin-bottom: 20px; }
 
 .bg-primary {
-  background-color: white !important; }
+  background-color: #F05F40 !important; }
 
 .bg-dark {
   color: white;
@@ -62,7 +62,7 @@ section {
   text-shadow: none; }
 
 ::selection {
-  color: #F05F40;
+  color: white;
   background: #222222;
   text-shadow: none; }
 
