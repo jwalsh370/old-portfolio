@@ -149,7 +149,7 @@ header.masthead {
   color: white;
   background-image: url("../img/header.jpg");
   background-position: center;
-  -webkit-background-size: cover;
+  -webkit-background-size: 100%;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover; }
